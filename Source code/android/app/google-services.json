@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "567835267608",
+    "project_id": "road-guard-pj5j2x",
+    "storage_bucket": "road-guard-pj5j2x.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567835267608:android:dca54baa04205416ca696d",
+        "android_client_info": {
+          "package_name": "com.mycompany.roadguard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAU1FdAbLDMn9rx-_cTBZ6RIPfc611JLRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
